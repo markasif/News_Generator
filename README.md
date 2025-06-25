@@ -60,8 +60,8 @@ Below are sample screenshots of the News Research Tool in action:
 
 ### 🖼 Interface with User Query
 
-![News Generator Screenshot 1](screenshots/news_generator1.png)
+![News Generator Screenshot 1](screenshots/News_Geneartor.png)
 
 ### 🧠 Generated Answer with Source
 
-![News Generator Screenshot 2](screenshots/news_generator2.png)
+![News Generator Screenshot 2](screenshots/News_generator2.png)
